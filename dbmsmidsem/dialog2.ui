@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog1</class>
+ <widget class="QDialog" name="Dialog1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>179</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Authentication Failure</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
